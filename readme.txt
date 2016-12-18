@@ -1,2 +1,1 @@
-The is a directory to learn how to use git.
-dfsfa
+git is a version control system.
